@@ -1,4 +1,5 @@
 msi-b460m-mortar
+i7 10700-UHD630 + bcm94360cs2
 
 Big Sur11.5.2    10代U核显或免驱卡
 
