@@ -1,4 +1,3 @@
-# EFI
 msi-b460m-mortar
 Big Sur11.5.2    10代U核显或免驱卡
 bios设置自行百度
