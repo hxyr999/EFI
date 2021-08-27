@@ -11,3 +11,5 @@ bios设置自行百度
 已定制USB端口（前面板USB3.0 x2  后面板USB3.0 x3  USB2.0 x2  type-c x1）
 
 如使用iMessage需板载网卡en0
+
+使用请自行更换三码
